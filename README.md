@@ -24,7 +24,7 @@
 
 - 📄 Sobre mim [https://linktr.ee/raphaelmose](https://linktr.ee/raphaelmose)
 
-- ⚡ Habilidade interessante **Toco violão e falo inglês (fluente)**
+- ⚡ Idioma: ** inglês **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
