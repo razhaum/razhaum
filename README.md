@@ -1,4 +1,4 @@
-![Texto Alternativo] https://pixabay.com/pt/photos/computador-port%C3%A1til-5673901/
+<img srcset="https://cdn.pixabay.com/photo/2020/10/21/18/07/laptop-5673901_960_720.jpg 1x, https://cdn.pixabay.com/photo/2020/10/21/18/07/laptop-5673901_1280.jpg 2x" src="https://cdn.pixabay.com/photo/2020/10/21/18/07/laptop-5673901_1280.jpg" alt="Computador Portátil, Dispositivo Digital">
 
 	
 <h1 align="center">Olá 👋, eu sou o Raphael</h1>
