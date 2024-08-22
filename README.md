@@ -1,4 +1,4 @@
-![image](https://img.freepik.com/fotos-gratis/conceito-de-fundo-de-programacao_23-2150170124.jpg?t=st=1717244744~exp=1717248344~hmac=87827c2833f6215aca59db510a5706201407fdedad320f10d95aec0f67e44854&w=1380)
+![image](https://cdn.pixabay.com/photo/2020/10/21/18/07/laptop-5673901_1280.jpg)
 
 	
 <h1 align="center">Olá 👋, eu sou o Raphael</h1>
